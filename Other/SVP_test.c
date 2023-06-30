@@ -1,5 +1,5 @@
 // Coded by Pietro Squilla
-// Analisi e test computazionale dello Shortest Vector Problem
+// analisi gestione dello Shortest Vector Problem
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
